@@ -6,7 +6,7 @@
             "file": "/codbex-plutus-data-sample/asset.csv",
             "header": true,
             "useHeaderNames": true,
-            "delimField": ";",
+            "delimField": ",",
             "delimEnclosing": "\"",
             "distinguishEmptyFromNull": true,
             "version": ""
@@ -17,7 +17,7 @@
             "file": "/codbex-plutus-data-sample/acquisition.csv",
             "header": true,
             "useHeaderNames": true,
-            "delimField": ";",
+            "delimField": ",",
             "delimEnclosing": "\"",
             "distinguishEmptyFromNull": true,
             "version": ""
@@ -28,7 +28,7 @@
             "file": "/codbex-plutus-data-sample/category.csv",
             "header": true,
             "useHeaderNames": true,
-            "delimField": ";",
+            "delimField": ",",
             "delimEnclosing": "\"",
             "distinguishEmptyFromNull": true,
             "version": ""
@@ -39,7 +39,7 @@
             "file": "/codbex-plutus-data-sample/depreciation.csv",
             "header": true,
             "useHeaderNames": true,
-            "delimField": ";",
+            "delimField": ",",
             "delimEnclosing": "\"",
             "distinguishEmptyFromNull": true,
             "version": ""
@@ -50,7 +50,7 @@
             "file": "/codbex-plutus-data-sample/disposal.csv",
             "header": true,
             "useHeaderNames": true,
-            "delimField": ";",
+            "delimField": ",",
             "delimEnclosing": "\"",
             "distinguishEmptyFromNull": true,
             "version": ""
@@ -61,7 +61,7 @@
             "file": "/codbex-plutus-data-sample/location.csv",
             "header": true,
             "useHeaderNames": true,
-            "delimField": ";",
+            "delimField": ",",
             "delimEnclosing": "\"",
             "distinguishEmptyFromNull": true,
             "version": ""
@@ -72,7 +72,7 @@
             "file": "/codbex-plutus-data-sample/maintenance.csv",
             "header": true,
             "useHeaderNames": true,
-            "delimField": ";",
+            "delimField": ",",
             "delimEnclosing": "\"",
             "distinguishEmptyFromNull": true,
             "version": ""
@@ -83,7 +83,7 @@
             "file": "/codbex-plutus-data-sample/supplier.csv",
             "header": true,
             "useHeaderNames": true,
-            "delimField": ";",
+            "delimField": ",",
             "delimEnclosing": "\"",
             "distinguishEmptyFromNull": true,
             "version": ""
@@ -94,7 +94,7 @@
             "file": "/codbex-plutus-data-sample/valuation.csv",
             "header": true,
             "useHeaderNames": true,
-            "delimField": ";",
+            "delimField": ",",
             "delimEnclosing": "\"",
             "distinguishEmptyFromNull": true,
             "version": ""
