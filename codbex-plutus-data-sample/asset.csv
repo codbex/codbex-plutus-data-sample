@@ -1,0 +1,4 @@
+Id,Name,Location,Category,SerialNumber,PurchaseDate,Status,Value,Product
+1,Computer,1,1,SN001,2021-01-15,Active,1200.00,1
+2,Printer,2,1,SN002,2021-06-10,Active,300.00,2
+3,Scanner,3,2,SN003,2021-11-23,Inactive,150.00,3

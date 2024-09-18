@@ -1,0 +1,103 @@
+{
+    "files": [
+        {
+            "table": "CODBEX_PLUTUS_ASSET",
+            "schema": "PUBLIC",
+            "file": "/codbex-plutus-data-sample/asset.csv",
+            "header": true,
+            "useHeaderNames": true,
+            "delimField": ";",
+            "delimEnclosing": "\"",
+            "distinguishEmptyFromNull": true,
+            "version": ""
+        },
+        {
+            "table": "CODBEX_PLUTUS_ACQUISITION",
+            "schema": "PUBLIC",
+            "file": "/codbex-plutus-data-sample/acquisition.csv",
+            "header": true,
+            "useHeaderNames": true,
+            "delimField": ";",
+            "delimEnclosing": "\"",
+            "distinguishEmptyFromNull": true,
+            "version": ""
+        },
+        {
+            "table": "CODBEX_PLUTUS_CATEGORY",
+            "schema": "PUBLIC",
+            "file": "/codbex-plutus-data-sample/category.csv",
+            "header": true,
+            "useHeaderNames": true,
+            "delimField": ";",
+            "delimEnclosing": "\"",
+            "distinguishEmptyFromNull": true,
+            "version": ""
+        },
+        {
+            "table": "CODBEX_PLUTUS_DEPRECIATION",
+            "schema": "PUBLIC",
+            "file": "/codbex-plutus-data-sample/depreciation.csv",
+            "header": true,
+            "useHeaderNames": true,
+            "delimField": ";",
+            "delimEnclosing": "\"",
+            "distinguishEmptyFromNull": true,
+            "version": ""
+        },
+        {
+            "table": "CODBEX_PLUTUS_DISPOSAL",
+            "schema": "PUBLIC",
+            "file": "/codbex-plutus-data-sample/disposal.csv",
+            "header": true,
+            "useHeaderNames": true,
+            "delimField": ";",
+            "delimEnclosing": "\"",
+            "distinguishEmptyFromNull": true,
+            "version": ""
+        },
+        {
+            "table": "CODBEX_PLUTUS_LOCATION",
+            "schema": "PUBLIC",
+            "file": "/codbex-plutus-data-sample/location.csv",
+            "header": true,
+            "useHeaderNames": true,
+            "delimField": ";",
+            "delimEnclosing": "\"",
+            "distinguishEmptyFromNull": true,
+            "version": ""
+        },
+        {
+            "table": "CODBEX_PLUTUS_MAINTENANCE",
+            "schema": "PUBLIC",
+            "file": "/codbex-plutus-data-sample/maintenance.csv",
+            "header": true,
+            "useHeaderNames": true,
+            "delimField": ";",
+            "delimEnclosing": "\"",
+            "distinguishEmptyFromNull": true,
+            "version": ""
+        },
+        {
+            "table": "CODBEX_PLUTUS_SUPPLIER",
+            "schema": "PUBLIC",
+            "file": "/codbex-plutus-data-sample/supplier.csv",
+            "header": true,
+            "useHeaderNames": true,
+            "delimField": ";",
+            "delimEnclosing": "\"",
+            "distinguishEmptyFromNull": true,
+            "version": ""
+        },
+        {
+            "table": "CODBEX_PLUTUS_VALUATION",
+            "schema": "PUBLIC",
+            "file": "/codbex-plutus-data-sample/valuation.csv",
+            "header": true,
+            "useHeaderNames": true,
+            "delimField": ";",
+            "delimEnclosing": "\"",
+            "distinguishEmptyFromNull": true,
+            "version": ""
+        }
+    ]
+}

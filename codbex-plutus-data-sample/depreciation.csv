@@ -1,0 +1,3 @@
+Id,Asset,DepreciationDate,Method,AnnualDepreciation,AccumulatedDepreciation
+1,1,2021-12-31,Straight-line,120.00,120.00
+2,2,2021-12-31,Straight-line,30.00,30.00
