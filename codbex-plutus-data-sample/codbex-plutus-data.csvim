@@ -23,17 +23,6 @@
       "version": ""
     },
     {
-      "table": "CODBEX_CATEGORY",
-      "schema": "PUBLIC",
-      "file": "/codbex-plutus-data-sample/category.csv",
-      "header": true,
-      "useHeaderNames": true,
-      "delimField": ",",
-      "delimEnclosing": "\"",
-      "distinguishEmptyFromNull": true,
-      "version": ""
-    },
-    {
       "table": "CODBEX_DEPRECIATION",
       "schema": "PUBLIC",
       "file": "/codbex-plutus-data-sample/depreciation.csv",
@@ -48,17 +37,6 @@
       "table": "CODBEX_DISPOSAL",
       "schema": "PUBLIC",
       "file": "/codbex-plutus-data-sample/disposal.csv",
-      "header": true,
-      "useHeaderNames": true,
-      "delimField": ",",
-      "delimEnclosing": "\"",
-      "distinguishEmptyFromNull": true,
-      "version": ""
-    },
-    {
-      "table": "CODBEX_LOCATION",
-      "schema": "PUBLIC",
-      "file": "/codbex-plutus-data-sample/location.csv",
       "header": true,
       "useHeaderNames": true,
       "delimField": ",",
@@ -84,6 +62,17 @@
       "header": true,
       "useHeaderNames": true,
       "delimField": ",",
+      "delimEnclosing": "\"",
+      "distinguishEmptyFromNull": true,
+      "version": ""
+    },
+    {
+      "table": "CODBEX_MAINTENANCESTATUS",
+      "schema": "PUBLIC",
+      "file": "/codbex-plutus-data-sample/maintenance-status.csv",
+      "header": false,
+      "useHeaderNames": false,
+      "delimField": ";",
       "delimEnclosing": "\"",
       "distinguishEmptyFromNull": true,
       "version": ""
