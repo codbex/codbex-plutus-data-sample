@@ -70,9 +70,9 @@
       "table": "CODBEX_MAINTENANCESTATUS",
       "schema": "PUBLIC",
       "file": "/codbex-plutus-data-sample/maintenance-status.csv",
-      "header": false,
-      "useHeaderNames": false,
-      "delimField": ";",
+      "header": true,
+      "useHeaderNames": true,
+      "delimField": ",",
       "delimEnclosing": "\"",
       "distinguishEmptyFromNull": true,
       "version": ""
