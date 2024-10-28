@@ -81,9 +81,20 @@
       "table": "CODBEX_VALUATIONMETHOD",
       "schema": "PUBLIC",
       "file": "/codbex-plutus-data-sample/valuation-method.csv",
-      "header": false,
-      "useHeaderNames": false,
-      "delimField": ";",
+      "header": true,
+      "useHeaderNames": true,
+      "delimField": ",",
+      "delimEnclosing": "\"",
+      "distinguishEmptyFromNull": true,
+      "version": ""
+    },
+    {
+      "table": "CODBEX_DISPOSALMETHOD",
+      "schema": "PUBLIC",
+      "file": "/codbex-plutus-data-sample/disposal-method.csv",
+      "header": true,
+      "useHeaderNames": true,
+      "delimField": ",",
       "delimEnclosing": "\"",
       "distinguishEmptyFromNull": true,
       "version": ""
