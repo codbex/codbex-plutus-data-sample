@@ -1,6 +1,6 @@
 {
     "name": "@codbex/codbex-plutus-data-sample",
-    "version": "0.0.1",
+    "version": "0.1.0",
     "repository": {
         "url": "https://github.com/codbex/codbex-plutus-data-sample.git",
         "type": "git"
